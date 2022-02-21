@@ -1,4 +1,4 @@
-Project aimed at checking mispelled words from a large text files and suggest 1 to 3 most relative candidates. 
+The goal of this project is to check for misspelled words across large text files and suggest 1-3 most likely candidates.
 Code is written using python programming language.
 Used libraries:
 1. NLTK (NLP library)
